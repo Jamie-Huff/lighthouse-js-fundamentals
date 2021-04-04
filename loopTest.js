@@ -1,4 +1,7 @@
-for (let x = 0; x > 12; x++) {
-  return x = x * x
-  console.log(x)
+let solution = 1;
+
+for (let x = 1; x < 13; x++) {
+    solution *= x
 }
+
+console.log(solution)

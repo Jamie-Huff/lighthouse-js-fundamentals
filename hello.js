@@ -1,6 +1,6 @@
 let sayHello = function (name) {
-  console.log(`Hello, ${name}`);
+  return `Hello, ${name}`;
 
 }
 
-sayHello('');
+console.log(sayHello(''));

@@ -11,3 +11,6 @@ if (hairyDog) {
 
 let random = dog[Math.floor(Math.random() * (dog.length))];
 console.log(`You probably own somthing like a ${random}.`);
+
+
+
