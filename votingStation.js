@@ -21,7 +21,6 @@ function chooseStations (stations) {
     } else {
       unacceptableOption.push(buildingName)
     }
-    console.log(station)
 
   }
 
